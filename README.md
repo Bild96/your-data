@@ -1,19 +1,25 @@
-## Getting Started
+## 💾 OPstake app - This app will allow users to stake a DATA token and earn a reward token in return ( DATAR ) DATA reward token.
 
-Create a project using this example:
+## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```bash
-npx thirdweb create --template next-typescript-starter
+ git clone https://github.com/bild96/OPstake.git
 ```
+```
+ cd OPstake
+```
+```
+ yarn 
+```
+```
+ yarn dev
+```
+## 💡 Live demo
+[♟️ OPstake](https://ipfs.io/ipfs/bafybeifuqwiwwuwbl44bm5cgjvaao5ali4jff4w3zvgx2bptm6zzfhidwq/)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🤳 Screenshots <a name = "screenshots"></a>
 
-On `pages/_app.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
 
-## Environment Variables
-
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
 
 ## Deploy to IPFS
 
@@ -23,18 +29,21 @@ Deploy a copy of your application to IPFS using the following command:
 yarn deploy
 ```
 
-## Learn More
+## ⛏️ Built With <a name = "tech_stack"></a>
+<img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/><img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="React" src="https://img.shields.io/badge/ReactJS-%23000.svg?&style=for-the-badge&logo=react&logoColor=blue"/><img alt="Typescript" src="https://img.shields.io/badge/Typescript-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+## ✍️ Authors <a name = "authors"></a>
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb TypeScript Documentation](https://docs.thirdweb.com/typescript) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Templates](https://thirdweb.com/templates)
+ 🧑‍💻 [Bild96](https://twitter.com/bild96)
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
 
-## Join our Discord!
+## 🎉 Acknowledgments <a name = "acknowledgments"></a>
+🏗️ [ETHGlobal © 2023](https://ethglobal.com)
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+ <h1 align="left">
+  <a href="https://discord.gg/ethglobal"><img src="static/Join-Discord.png" width="380" alt="Join Discord"></a>
+ </h1>
+ 
+#### 🪙 Want to show support? Just spread the word and smash the ⭐ star button
+###### Donate BTC: ***bc1qcgl0dnquzlflenpupeyktm68v4rjpls09ljvul***
+
