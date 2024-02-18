@@ -1,5 +1,5 @@
 {
-  "name": "opstake",
+  "name": "your-data",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,11 +11,12 @@
     "deploy": "next build && next export && npx thirdweb@latest upload out"
   },
   "dependencies": {
+    "@blocto/sdk": "^0.2.6",
     "@chakra-ui/react": "^2.8.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@thirdweb-dev/react": "^3",
-    "@thirdweb-dev/sdk": "^3",
+    "@thirdweb-dev/sdk": "^4.0.35",
     "ethers": "^5",
     "framer-motion": "^10.15.1",
     "next": "^13",

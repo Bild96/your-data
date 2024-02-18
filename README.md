@@ -1,12 +1,12 @@
-## 💾 OPstake app - This app will allow users to stake a DATA token and earn a reward token in return ( DATAR ) DATA reward token.
+## 💾 your-data - Scroll Sepolia Testnet - ERC20 staking app. This app will allow users to stake a token and earn a reward token in return.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```bash
- git clone https://github.com/bild96/OPstake.git
+ git clone https://github.com/bild96/your-data.git
 ```
 ```
- cd OPstake
+ cd your-data
 ```
 ```
  yarn 
@@ -15,7 +15,7 @@
  yarn dev
 ```
 ## 💡 Live demo
-[♟️ OPstake](https://ipfs.io/ipfs/bafybeifuqwiwwuwbl44bm5cgjvaao5ali4jff4w3zvgx2bptm6zzfhidwq/)
+[♟️ Local](http://localhost:3000)
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
 
@@ -38,12 +38,12 @@ yarn deploy
 
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-🏗️ [ETHGlobal © 2023](https://ethglobal.com)
+🏗️ [ETHGlobal © 2024](https://ethglobal.com)
 
  <h1 align="left">
   <a href="https://discord.gg/ethglobal"><img src="static/Join-Discord.png" width="380" alt="Join Discord"></a>
  </h1>
  
 #### 🪙 Want to show support? Just spread the word and smash the ⭐ star button
-###### Donate BTC: ***bc1qcgl0dnquzlflenpupeyktm68v4rjpls09ljvul***
+###### Donate ETH: ***0xfd7a470001364d707c81074142b6aC9248B0b0cc***
 

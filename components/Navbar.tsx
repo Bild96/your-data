@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <Container maxW={"1200px"} py={4}>
             <Flex direction={"row"} justifyContent={"space-between"}>
-                <Heading>💾 OPstaking App</Heading>
+                <Heading>💾 YOUR-DATA STAKING</Heading>
                 <ConnectWallet />
             </Flex>
         </Container>
