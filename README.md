@@ -19,6 +19,11 @@
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
 
+![Screenshot from 2024-02-18 15-45-09](https://github.com/Bild96/your-data/assets/52472445/49127aed-6733-4f05-a7f2-26436cabd331)
+
+![Screenshot from 2024-02-18 15-49-27](https://github.com/Bild96/your-data/assets/52472445/5963fe52-3615-45f9-920c-c38124997c9d)
+
+
 
 
 ## Deploy to IPFS
